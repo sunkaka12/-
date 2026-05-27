@@ -1,0 +1,6 @@
+{
+  "name": "包有帮供应链 SaaS",
+  "description": "面向食品生鲜连锁门店的轻量供应链 ERP 平台原型。打通订单、生产、批次库存、分拣、配送监控与财务对账的业务闭环。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
